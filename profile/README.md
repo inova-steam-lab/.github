@@ -1,5 +1,5 @@
-# Labrador Rover
-Repositórios dos projetos utilizado para o desenvolvimento de um rover utilizando a placa Labrador. O projeto consiste na montagem de um rover utilizando a placa labrador.
+# Inova STEAM Lab
+Repositórios dos projetos realizados pela equipe do Inova STEAM Lab.
 
 ## rover-api-socketio
 API em tempo real que atua escutando os eventos enviados pelo usuário através do navegador. Através de uma página web que a API disponibiliza, um usuário poderá emitir comandos,
